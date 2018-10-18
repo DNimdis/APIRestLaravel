@@ -2,9 +2,8 @@
 Este proyecto, es utilizado para proporcionar recursos REST a una aplicación Angular CRUD, con la tematica de crear un directorio de pelicula.
 
 ![imagen de entrada](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura.PNG)
-text
-Registro de una nueva pelcula
-text
+
+** Registro de una nueva pelcula **
 ***
 {
     "name": "Nestor",
@@ -20,8 +19,8 @@ text
 
 ![imagen de entrada](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura2.PNG)
 
+** Mostrar todos las peliculas **
 ***
-Mostrar todos las peliculas
 [
     {
         "id": 1,
