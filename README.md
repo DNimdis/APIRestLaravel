@@ -17,7 +17,7 @@ Este proyecto, es utilizado para proporcionar recursos REST a una aplicación An
 }
 ***
 
-![imagen de entrada](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura2.PNG)
+![Mostrar peliculas](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura2.PNG)
 
 **Mostrar todos las peliculas**
 ***
@@ -54,3 +54,10 @@ Este proyecto, es utilizado para proporcionar recursos REST a una aplicación An
     }
 ]
 ****
+
+![Modificar Pelicula](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura3.PNG)
+**Modificar una pelicula**
+***
+Metodo: PUT
+URL: http://localhost:8000/api/movies/1
+***
