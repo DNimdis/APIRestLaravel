@@ -3,7 +3,7 @@ Este proyecto, es utilizado para proporcionar recursos REST a una aplicación An
 
 ![imagen de entrada](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura.PNG)
 
-** Registro de una nueva pelcula **
+**Registro de una nueva pelcula**
 ***
 {
     "name": "Nestor",
@@ -19,7 +19,7 @@ Este proyecto, es utilizado para proporcionar recursos REST a una aplicación An
 
 ![imagen de entrada](https://github.com/DNimdis/APIRestLaravel/blob/master/public/img/imgWiki/Captura2.PNG)
 
-** Mostrar todos las peliculas **
+**Mostrar todos las peliculas**
 ***
 [
     {
